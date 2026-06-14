@@ -1,0 +1,4 @@
+# kalman_filter_ex1.ipynb 실행을 위해 필요한 라이브러리 목록
+numpy==2.4.6
+matplotlib==3.11.0
+koreanize-matplotlib==0.1.1
